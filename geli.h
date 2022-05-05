@@ -58,7 +58,7 @@
 #include <openssl/sha.h>
 #include <openssl/md5.h>
 
-#include "endian.h"
+#include "geli_endian.h"
 
 enum _bool {false = 0, true = 1};
 typedef enum _bool bool;
